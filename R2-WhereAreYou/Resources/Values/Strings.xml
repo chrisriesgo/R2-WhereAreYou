@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="StartTracking">Start Tracking</string>
+    <string name="StopTracking">Stop Tracking</string>
+    <string name="ApplicationName">R2-WhereAreYou</string>
+</resources>
